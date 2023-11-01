@@ -1,0 +1,11 @@
+name: 3dzef
+channels:
+  - pytorch
+  - anaconda
+dependencies:
+  - python=3.8.5
+  - numpy=1.19.2
+  - pandas 
+  - pytorch=1.7.1
+  - torchvision=0.8.2
+  - pycocotools
